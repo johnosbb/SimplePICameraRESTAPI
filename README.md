@@ -1,6 +1,9 @@
 # SimplePICameraRESTAPI
 A very simple REST API for the Camera on the Raspberry PI
 
+## Running the Apllication
+
+npm start
 
 ## Testing with Postman
 
