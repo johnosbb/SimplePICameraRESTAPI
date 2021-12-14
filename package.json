@@ -1,0 +1,21 @@
+{
+  "name": "picamerarestapi",
+  "version": "1.0.0",
+  "description": "A very simple rest API for controlling the PI camera",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "REST",
+    "NodeJS",
+    "PiCamera"
+  ],
+  "author": "John O'Sullivan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.14",
+    "pi-camera": "^1.6.0"
+  }
+}
